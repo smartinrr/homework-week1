@@ -16,6 +16,10 @@ main {
     font-size: 90%;
 }
 
+footer {
+    background-color: #d8e0ea;
+}
+
 li {
     display: table-cell;
     width: 20%;
