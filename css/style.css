@@ -1,0 +1,32 @@
+body {
+    font-family: 'Gill Sans', Arial;
+    font-size: 110%;
+}
+
+header {
+    background-color: #d5d3da;
+}
+
+nav {
+    background-color: #e9d4e7;
+}
+
+main {
+    background-color: #d8e0ea;
+    font-size: 90%;
+}
+
+li {
+    display: table-cell;
+    width: 20%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Arial;
+    color: #57289e;
+}
+
+p {
+    line-height: 150%;
+}
